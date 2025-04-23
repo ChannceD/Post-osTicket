@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
 
 # 🧾 osTicket Post-Installation Lab – System Configuration Walkthrough
 
@@ -5,7 +8,7 @@ After deploying osTicket, the next step is setting it up for actual use. In this
 
 ---
 
-## 🧰 Technologies Used
+## ⚙️ Technologies Used
 
 - **osTicket** – Open-source support ticket system
 - **Windows 10 VM** – Running the osTicket instance
@@ -13,7 +16,7 @@ After deploying osTicket, the next step is setting it up for actual use. In this
 
 ---
 
-## 🖼️ Step-by-Step Configuration (with Screenshots)
+## Step-by-Step Configuration (with Screenshots)
 
 ### 🔹 Step 1: Getting Started
 ![Step 1](osTicket-Lab-Post/1.Getting%20started.png)  
